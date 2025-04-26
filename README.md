@@ -15,3 +15,13 @@ Sou o Marcus
 - 🌱 em tempo livre gosto de jogar video game ,sair pro cinema ,comer pizza e entre outros
 
 </br>
+
+<div>
+
+![Snake animation](https://github.com/juancondorijara/juancondorijara/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
+## Total de Visitas no Perfil 🔍👨‍💻✔
+<img src="https://profile-counter.glitch.me/juancondorijara/count.svg"/>
